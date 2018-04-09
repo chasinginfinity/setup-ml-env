@@ -1,9 +1,9 @@
 # How to set up your Machine Learning Environment
-Write-up for the video : 
+Write-up for the video : https://youtu.be/gx9_L7BnUhc  
 In this tutorial I show you how to set up an environment for your machine learning projects using Anaconda. 
 
 ## Step 1 - Download & Install Anaconda 
-You can download Anaconda from here : https://www.anaconda.com/download/
+You can download Anaconda from here : https://www.anaconda.com/download/  
 I would recomend to download the Python3 version.
 
 ## Step2 - Create a new Environment
