@@ -29,9 +29,23 @@ pip install scipy
 ```
 pip install numpy
 ```
-scipy: 0.18.1
-numpy: 1.11.1
-matplotlib: 1.5.3
-pandas: 0.18.1
-statsmodels: 0.6.1
-sklearn: 0.17.1
+#### Matplotlib
+```
+pip instal matplotlib
+```
+#### Pandas
+```
+pip install pandas
+```
+#### Scikit-learn
+```
+pip install scikit-learn
+```
+#### Tensorflow
+```
+pip install tensorflow
+```
+#### Keras
+```
+pip install keras
+```
