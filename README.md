@@ -49,3 +49,12 @@ pip install tensorflow
 ```
 pip install keras
 ```
+
+## Step 4 - Start Spyder
+Spyder is a great IDE for python and we will use it in out future machine learning projects.  
+To start Spyder, in our environment type : 
+```
+spyder
+```  
+  
+You can verify everything we have installed, by importing it in the python console. Watch the video to see how this is done. 
